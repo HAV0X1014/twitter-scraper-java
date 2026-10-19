@@ -32,7 +32,7 @@ public class GraphQL {
 	}
 
 	public static class Entry {
-		public int n;
+		public String n;
 		public Exports exports;
 
 		public static class Exports {
